@@ -40,9 +40,9 @@ Needs to be compiled. Instructions [here](https://github.com/xmrig/xmrig/wiki/OS
 2. Open the `config.json` file with Notepad
 3. Find and change the following lines:
 
-* `"algo: "argon2/chukwav2"`
-* `"url: "[pool address]"`
-* `"user: "[wallet address]"`
+* `"algo": "argon2/chukwav2"`
+* `"url": "[pool address]"`
+* `"user": "[wallet address]"`
 
 - Instead of `[wallet address]`, simply paste your TurtleCoin wallet's address. Make sure to keep the `"`!
   - If you don't have one yet, you can find out how to create a wallet [here](../wallets/Making-a-Wallet)
