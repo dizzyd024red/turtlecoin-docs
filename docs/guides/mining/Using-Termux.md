@@ -6,8 +6,7 @@ title: Mining with Termux
 
 ## Downloading and Compiling NinjaRig
 
-1. Download [Termux](https://termux.com) from the [Play Store](https://play.google.com/store/apps/details?id=com.termux) 
-   or from [F-droid](https://f-droid.org/repository/browse/?fdid=com.termux).
+1. Download [Termux](https://termux.com) from [F-droid](https://f-droid.org/repository/browse/?fdid=com.termux).
 2. Upon downloading and installing, open the app.
 3. Run `pkg upgrade -y`
 4. Run `pkg install git cmake libuv clang nano -y`
