@@ -2,6 +2,10 @@
 title: Using Shellnet
 ---
 
+# Shellnet will shut down on January 1st, 2022. Please withdraw your TRTL from shellnet or backup your wallet keys in order to access to your TRTL next year.
+![image](https://user-images.githubusercontent.com/909007/144363748-ebea6676-16d3-46ec-b108-0f88f7ad340e.png)
+
+
 ## Screenshot
 
 Here's a quick image of Shellnet in action:
